@@ -1,3 +1,0 @@
-- [National address lookup](national-address-lookup.md) — Keep the external lookup behind the app proxy because the provider API does not allow cross-origin browser requests.
-- [Supabase connector](supabase-connector.md) — Server-side connector is attached, but runtime access must be verified because an API-key connection can still return 502.
-- [Vite file watching](vite-file-watching.md) — Ignore Replit state and cache directories or workflow log updates can trigger continuous preview reloads.
