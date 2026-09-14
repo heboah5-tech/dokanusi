@@ -1,0 +1,8 @@
+{
+  "name": "دخوني الإمارات | Dkhoon Emirates",
+  "description": "المتجر الرسمي لعطور وبخور دخوني الإمارات - مجموعة لندن وعروض اليوم الوطني 96 ر.س والبخور والعود الفاخر بالريال السعودي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

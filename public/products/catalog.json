@@ -1,0 +1,282 @@
+[
+  {
+    "id": "london-1",
+    "name": "باقة لندن",
+    "image_url": "/products/london-1.webp",
+    "price": 296,
+    "original_price": 0,
+    "discount_percent": 0,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/London-Bundle"
+  },
+  {
+    "id": "london-bundle-offer",
+    "name": "باقة لندن - عرض R20",
+    "image_url": "/products/london-bundle.webp",
+    "price": 396,
+    "original_price": 2796,
+    "discount_percent": 86,
+    "category": "london",
+    "product_url": "#"
+  },
+  {
+    "id": "london-2",
+    "name": "MISS DKHONI 150 ml",
+    "image_url": "/products/london-2.webp",
+    "price": 195,
+    "original_price": 495,
+    "discount_percent": 61,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/MISS-DKHONI-150-ml"
+  },
+  {
+    "id": "london-3",
+    "name": "MISS DKHONI 75 ml",
+    "image_url": "/products/london-3.webp",
+    "price": 149,
+    "original_price": 295,
+    "discount_percent": 49,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/MISS-DKHONI-75-ml"
+  },
+  {
+    "id": "london-4",
+    "name": "MISS Oud Oil 10 ml",
+    "image_url": "/products/london-4.webp",
+    "price": 96,
+    "original_price": 149,
+    "discount_percent": 36,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/MISS-DKHONI-Oud-Oil-10-ml"
+  },
+  {
+    "id": "london-5",
+    "name": "Miss بخور",
+    "image_url": "/products/london-5.webp",
+    "price": 149,
+    "original_price": 295,
+    "discount_percent": 49,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/Miss-Bakhor"
+  },
+  {
+    "id": "london-6",
+    "name": "LADY DKHONI 150 ml",
+    "image_url": "/products/london-6.webp",
+    "price": 195,
+    "original_price": 495,
+    "discount_percent": 61,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/LADY-DKHONI-150-ml"
+  },
+  {
+    "id": "london-7",
+    "name": "LADY DKHONI 75 ml",
+    "image_url": "/products/london-7.webp",
+    "price": 149,
+    "original_price": 295,
+    "discount_percent": 49,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/LADY-DKHONI-75-ml"
+  },
+  {
+    "id": "london-8",
+    "name": "LADY Oud Oil 10 ml",
+    "image_url": "/products/london-8.webp",
+    "price": 96,
+    "original_price": 149,
+    "discount_percent": 36,
+    "category": "london",
+    "product_url": "https://dkhoonemirates.com/products/LADY-DKHONI-Oud-Oil-10-ml"
+  },
+  {
+    "id": "national_day-1",
+    "name": "عطر ابو ظبي",
+    "image_url": "/products/national_day-1.webp",
+    "price": 96,
+    "original_price": 445,
+    "discount_percent": 78,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Abu-Dhabi-perfume"
+  },
+  {
+    "id": "national_day-2",
+    "name": "بلقيس",
+    "image_url": "/products/national_day-2.webp",
+    "price": 96,
+    "original_price": 253,
+    "discount_percent": 62,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Belqis-Perfume-"
+  },
+  {
+    "id": "national_day-3",
+    "name": "سجنتشر جولد",
+    "image_url": "/products/national_day-3.webp",
+    "price": 96,
+    "original_price": 285,
+    "discount_percent": 66,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Signature-Gold"
+  },
+  {
+    "id": "national_day-4",
+    "name": "كراون بلاك",
+    "image_url": "/products/national_day-4.webp",
+    "price": 96,
+    "original_price": 263,
+    "discount_percent": 63,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Crown-Black-Perfume-Unisex-100-ml"
+  },
+  {
+    "id": "national_day-5",
+    "name": "عطر دبي",
+    "image_url": "/products/national_day-5.webp",
+    "price": 96,
+    "original_price": 445,
+    "discount_percent": 78,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Dubai-perfume"
+  },
+  {
+    "id": "national_day-6",
+    "name": "سافاير",
+    "image_url": "/products/national_day-6.webp",
+    "price": 96,
+    "original_price": 287.5,
+    "discount_percent": 67,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Sapphire-Perfume-100-ml"
+  },
+  {
+    "id": "national_day-7",
+    "name": "خيال",
+    "image_url": "/products/national_day-7.webp",
+    "price": 96,
+    "original_price": 184,
+    "discount_percent": 48,
+    "category": "national_day",
+    "product_url": "https://dkhoonemirates.com/products/Khayal-Perfume"
+  },
+  {
+    "id": "exclusive-1",
+    "name": "باقة المجد 2",
+    "image_url": "/products/exclusive-1.webp",
+    "price": 1512,
+    "original_price": 0,
+    "discount_percent": 0,
+    "category": "exclusive",
+    "product_url": "https://dkhoonemirates.com/products/Al-Majed-2-Bundle"
+  },
+  {
+    "id": "exclusive-2",
+    "name": "باقة عزنا بجودنا",
+    "image_url": "/products/exclusive-2.webp",
+    "price": 1747,
+    "original_price": 0,
+    "discount_percent": 0,
+    "category": "exclusive",
+    "product_url": "https://dkhoonemirates.com/products/3ezna-BeGawdna-bundle"
+  },
+  {
+    "id": "exclusive-3",
+    "name": "باقة فلويد",
+    "image_url": "/products/exclusive-3.webp",
+    "price": 288,
+    "original_price": 0,
+    "discount_percent": 0,
+    "category": "exclusive",
+    "product_url": "https://dkhoonemirates.com/products/Flouid-Bundle"
+  },
+  {
+    "id": "gift-1",
+    "name": "Legacy",
+    "image_url": "/products/gift-1.webp",
+    "price": 96,
+    "original_price": 119,
+    "discount_percent": 19,
+    "category": "gift",
+    "product_url": "https://dkhoonemirates.com/products/Legacy"
+  },
+  {
+    "id": "gift-2",
+    "name": "طقم ماستر الجديد",
+    "image_url": "/products/gift-2.webp",
+    "price": 119,
+    "original_price": 0,
+    "discount_percent": 0,
+    "category": "gift",
+    "product_url": "https://dkhoonemirates.com/products/MASTER--NEW-EDITION"
+  },
+  {
+    "id": "incense-1",
+    "name": "عبق التراث",
+    "image_url": "/products/incense-1.webp",
+    "price": 96,
+    "original_price": 115,
+    "discount_percent": 17,
+    "category": "incense",
+    "product_url": "https://dkhoonemirates.com/products/Turath-Incense"
+  },
+  {
+    "id": "incense-2",
+    "name": "عبق عتيق",
+    "image_url": "/products/incense-2.webp",
+    "price": 96,
+    "original_price": 115,
+    "discount_percent": 17,
+    "category": "incense",
+    "product_url": "https://dkhoonemirates.com/products/Ateeq-Incense"
+  },
+  {
+    "id": "incense-3",
+    "name": "عبق دقة",
+    "image_url": "/products/incense-3.webp",
+    "price": 96,
+    "original_price": 115,
+    "discount_percent": 17,
+    "category": "incense",
+    "product_url": "https://dkhoonemirates.com/products/oud-Dakkah-incense"
+  },
+  {
+    "id": "incense-4",
+    "name": "عبق الديوان",
+    "image_url": "/products/incense-4.webp",
+    "price": 96,
+    "original_price": 115,
+    "discount_percent": 17,
+    "category": "incense",
+    "product_url": "https://dkhoonemirates.com/products/Al-Diwan-Oud-incense-Amber"
+  },
+  {
+    "id": "oud-1",
+    "name": "أوقية سيلاني سوبر",
+    "image_url": "/products/oud-1.jpg",
+    "price": 96,
+    "original_price": 230,
+    "discount_percent": 58,
+    "category": "oud",
+    "product_url": "https://dkhoonemirates.com/products/super-Ceylon-agarwood"
+  },
+  {
+    "id": "oud-2",
+    "name": "عود سيوفي محسن 28 جرام",
+    "image_url": "/products/oud-2.jpg",
+    "price": 96,
+    "original_price": 230,
+    "discount_percent": 58,
+    "category": "oud",
+    "product_url": "https://dkhoonemirates.com/products/syrupy-Agarwood"
+  },
+  {
+    "id": "oud-3",
+    "name": "عود مروكى دبل سوبر 28 جرام",
+    "image_url": "/products/oud-3.jpg",
+    "price": 96,
+    "original_price": 130,
+    "discount_percent": 26,
+    "category": "oud",
+    "product_url": "https://dkhoonemirates.com/products/oud-maroki-28g"
+  }
+]
